@@ -10,3 +10,6 @@ Please follow below Steps:
 
 3.Open the browser and type http://localhost/SynchronizerTokenPattern/login.php
 
+Credentials 
+user name : admin
+password : admin123
